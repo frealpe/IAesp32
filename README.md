@@ -31,7 +31,7 @@ A scalable local **Node.js** backend acting as the central coordination layer fo
 ## 🛠️ Stack & Technologies
 
 - **Hardware**: ESP32
-- **Firmware**: MicroPython (Replacing Legacy C++/PlatformIO in `/ApEsp32`)
+- **Firmware**: MicroPython
 - **Transport**: REST HTTP/1.1, MQTT Pub/Sub
 - **Frontend**: React.js, Vite, Bootstrap / CoreUI
 - **Backend / Database**: Node.js, Express, MongoDB
