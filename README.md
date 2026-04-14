@@ -11,7 +11,6 @@ A custom **MicroPython** operating system for the ESP32. It abandons traditional
 
 - **MicroPython Asyncio**: Fully non-blocking event loop processing tasks concurrently.
 - **Hardware Orchestration**: Dynamic drivers for GPIO, PWM, ADC, and UART that lock resources gracefully.
-- **Motion Control**: Integrated `PyCoClaw` serial driver for robust Roboclaw motor control.
 - **Network**: Dual-mode WiFi (STA/AP fallback), bidirectional `umqtt` telemetry, and an ultra-lightweight async HTTP server mapping to `LittleFS` storage.
 
 ### 2. Embedded Web Dashboard (`/Front/iot32_Frontend`)
@@ -31,7 +30,7 @@ A scalable local **Node.js** backend acting as the central coordination layer fo
 
 ## 🛠️ Stack & Technologies
 
-- **Hardware**: ESP32, Roboclaw Motor Controllers
+- **Hardware**: ESP32
 - **Firmware**: MicroPython (Replacing Legacy C++/PlatformIO in `/ApEsp32`)
 - **Transport**: REST HTTP/1.1, MQTT Pub/Sub
 - **Frontend**: React.js, Vite, Bootstrap / CoreUI

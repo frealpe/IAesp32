@@ -4,15 +4,13 @@ resource_manager.py - PyCloude Hardware Coordinator
 from drivers.adc import ADC
 from drivers.gpio import GPIO
 from drivers.pwm import PWM
-from drivers.motion import PyCoClaw
 
 class ResourceManager:
     def __init__(self):
         self.adc = ADC(34)
-        self.motion = PyCoClaw(uart_id=1, tx_pin=17, rx_pin=16)
         self.gpios = {}
         self.pwms = {}
-        print("[ResourceManager] Initialized: ADC=GPIO34, PyCoClaw=UART1")
+        print("[ResourceManager] Initialized: ADC=GPIO34")
 
     def gpio_write(self, pin_num: int, state: int):
         if pin_num not in self.gpios:
@@ -26,15 +24,9 @@ class ResourceManager:
         self.pwms[pin_num].set_duty_percent(percent)
         return {"resource": f"pwm_{pin_num}", "duty_hz": percent, "freq": freq}
 
-    def stop_all(self):
-        """Emergency stop for motors."""
-        self.motion.stop_all()
-
     def status(self) -> dict:
         pins = {
-            "34": {"mode": "ADC", "value": self.adc.read()},
-            "17": {"mode": "UART_TX", "value": "PyCoClaw"},
-            "16": {"mode": "UART_RX", "value": "PyCoClaw"}
+            "34": {"mode": "ADC", "value": self.adc.read()}
         }
         for p, drv in self.gpios.items():
             pins[str(p)] = {"mode": "GPIO_OUT" if drv.is_output else "GPIO_IN", "value": drv.value}

@@ -76,25 +76,4 @@ class Interpreter:
         self.system.scheduler.schedule(task_id, interval_ms / 1000.0, _sample, iterations=samples)
         return {"status": "streaming", "task_id": task_id, "pin": pin, "samples": samples}
 
-    # ─── Motion (PyCoClaw) ────────────────────────────────────
-    def _cmd_move_motor(self, args):
-        speed = args.get("speed", 0)
-        direction = args.get("direction", "forward")
-        duration_ms = args.get("duration", 0)
-        
-        if direction == "backward":
-            speed = -abs(speed)
-        else:
-            speed = abs(speed)
-            
-        # Drive both for now (tank simulation)
-        self.system.hw.motion.set_speed(1, speed)
-        self.system.hw.motion.set_speed(2, speed)
-        
-        if duration_ms > 0:
-            def _stop():
-                self.system.hw.motion.stop_all()
-            task_id = f"stop_motor_{time.time()}"
-            self.system.scheduler.schedule(task_id, duration_ms / 1000.0, _stop, iterations=1)
-            
-        return {"status": "moving", "speed": speed, "direction": direction, "duration_ms": duration_ms}
+
