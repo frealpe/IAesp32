@@ -1,0 +1,19 @@
+# Node
+**/node_modules/
+**/dist/
+
+# Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.env.local
+
+# Web artifacts inside Esp32
+Esp32/www/
+
+# Editor
+.vscode/
+.idea/

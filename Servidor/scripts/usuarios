@@ -1,0 +1,367 @@
+[{
+  "_id": {
+    "$oid": "654c418a45b0083ebda99193"
+  },
+  "nombre": "Eliecer Garcés Girón",
+  "correo": "coord.investigacion@metrex.com.co",
+  "password": "$2a$10$WH6uQPh1xUHp5Eahqvh5NOKwnRLyUBgiJ5TurPK.D2NHVrNDu3PFa",
+  "rol": "ADMIN_ROLE",
+  "estado": true,
+  "google": false,
+  "__v": 325,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTRjNDE4YTQ1YjAwODNlYmRhOTkxOTMiLCJpYXQiOjE3NzE0NDI5MDcsImV4cCI6MTc3MjA0NzcwN30.nYIMLEwBihG60ywQHaJKaUJxBC8t0y5NhQUslAzSgWc",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTRjNDE4YTQ1YjAwODNlYmRhOTkxOTMiLCJpYXQiOjE3NzE1NDAxODUsImV4cCI6MTc3MjE0NDk4NX0.wFKsBYMRrUinsGFKxiGPhiW25nz3htb-5W0nsUgGi88",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTRjNDE4YTQ1YjAwODNlYmRhOTkxOTMiLCJpYXQiOjE3NzE1NTIzNjYsImV4cCI6MTc3MjE1NzE2Nn0.jbQFBZzNe7XJV0gEO8orBGfM1EzvnLiXNpMLkR1iYjw"
+  ]
+},{
+  "_id": {
+    "$oid": "657078bf0fd1ce33159276e7"
+  },
+  "nombre": "Andrés Felipe Arteaga",
+  "correo": "andres.arteaga@metrex.com.co",
+  "password": "$2a$10$166PK3qqdQ3EsiYH2uzJWOd2zEdd/OinXtWEIxsScH4DVI.YYV8yW",
+  "rol": "ADMIN_USER",
+  "estado": true,
+  "google": false,
+  "__v": 8,
+  "refreshToken": []
+},{
+  "_id": {
+    "$oid": "65807cb69c15850323a6a267"
+  },
+  "nombre": "Eliana Ospina",
+  "correo": "eospino@gascaribe.com",
+  "password": "$2a$10$E4HItjVCFTnKz0cwolYmYeUzGmXhkRYyw2H9L2CbhyjK0My5HRI2m",
+  "rol": "ADMIN_USER",
+  "estado": true,
+  "google": false,
+  "__v": 10,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3NjcxOTUzNjUsImV4cCI6MTc2NzgwMDE2NX0.0yBZOyMc_vy9GCpkwOO4Klh7SzzT07ty9I4rTwDb7lE",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3Njc5MDUzMTAsImV4cCI6MTc2ODUxMDExMH0.l-KxLOHVPaR-4ElupeNvZoTwgvFqOnr0GgBVZKRCTW0",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3Njc5MDU5MDEsImV4cCI6MTc2ODUxMDcwMX0.7QJ0ZLmKdVqeowfYHhjabHf_d7HHEXvUYwMklPn3YTQ",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3Njg1NzI1MDEsImV4cCI6MTc2OTE3NzMwMX0.DvwOoZ9DtRzfyh2A2aULIyPXO5bR01Er1mX3Jx48c2I",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3Njg3NTEwOTEsImV4cCI6MTc2OTM1NTg5MX0.ukDOBDS_jpuqSK4V-Tk5lKJM5rnmUy8uV6GvX_EglGA",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3Njg3NTE3NDAsImV4cCI6MTc2OTM1NjU0MH0.VbUbnqe26Y0v5c53qFVXGIa9qJD3Xw40n8jnQ2rjiwM",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3Njg4MzQyMzUsImV4cCI6MTc2OTQzOTAzNX0.TeyPwR5xxvMo4_vLjAySQxyO6NClElgKFESMHcb11fA",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3NjkwMjUyODQsImV4cCI6MTc2OTYzMDA4NH0.a86d7O_PiKNXdaj1YcZPdF09OxqcpR9uwrHHLMpWUrg",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3NjkyNzA1MTEsImV4cCI6MTc2OTg3NTMxMX0.fPShcgcyL7AkFjZLVjmSvq5T3tNw45vR9W0NVmWMwzI",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3Njk1MjI2NzksImV4cCI6MTc3MDEyNzQ3OX0.FpirlmFUX5qvsL5re9X8Tytze74V_deUGz2xx7GqMt0",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3Njk4MDE2NzYsImV4cCI6MTc3MDQwNjQ3Nn0.NMS7-e__XoQ_MsABG3eyFHbO2V-YIZ_70cCLCLRi2Wg",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3NzAxMzcxNTIsImV4cCI6MTc3MDc0MTk1Mn0.A6BhRLY8fi8NFCQxpe_R7KfHWYYEdGicfmRsgXgsJhI",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3NzA2NzIyMDEsImV4cCI6MTc3MTI3NzAwMX0.mSjCorViKx_mNoxDS4ugWevvUf3HObl8LcL3i3Da4FI",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTgwN2NiNjljMTU4NTAzMjNhNmEyNjciLCJpYXQiOjE3NzA4MjEzOTksImV4cCI6MTc3MTQyNjE5OX0.BFyYr81PCz3MydddvG-cDD2pJCraLopcfVz-NGcyoBM"
+  ]
+},{
+  "_id": {
+    "$oid": "65bc2d5f3fdde05bb23affcd"
+  },
+  "nombre": "Gerencia Técnica IOT",
+  "correo": "gerencia.tecnica@iottsolutions.com",
+  "password": "$2a$10$2po64nOLbiEQI1XddIrZ3O25La3h6BUBvUEnEy.iplW8x8GqXxkV6",
+  "rol": "ADMIN_ROLE",
+  "estado": true,
+  "google": false,
+  "__v": 234,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NWJjMmQ1ZjNmZGRlMDViYjIzYWZmY2QiLCJpYXQiOjE3Njk2MjQwNzAsImV4cCI6MTc3MDIyODg3MH0.Q9phyzZPjP2S13HGEjJ10xgfmC6UD03KGC1mwKwewQk",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NWJjMmQ1ZjNmZGRlMDViYjIzYWZmY2QiLCJpYXQiOjE3NzAzODc0NDYsImV4cCI6MTc3MDk5MjI0Nn0.tTqlr3u0nlG9qwgryfysaSm7zVSqqPsscxCMPsVszPM",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NWJjMmQ1ZjNmZGRlMDViYjIzYWZmY2QiLCJpYXQiOjE3NzA4Mjc5NjcsImV4cCI6MTc3MTQzMjc2N30.beCzPa8iV6zkTR3ELbj-6fDKUx1bg5EXWcaHrNWY-bc",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NWJjMmQ1ZjNmZGRlMDViYjIzYWZmY2QiLCJpYXQiOjE3NzA4NDc4OTUsImV4cCI6MTc3MTQ1MjY5NX0.Y0rmd3UBAV-InD-Q0vVYzccRX2_hb7TbKxskA-MEGHM",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NWJjMmQ1ZjNmZGRlMDViYjIzYWZmY2QiLCJpYXQiOjE3NzE1NDYyMTksImV4cCI6MTc3MjE1MTAxOX0.z5ZrcTunfS1tErskHVLDNceyRphK4u9Dnba1d4IL884"
+  ]
+},{
+  "_id": {
+    "$oid": "65d75615f804b276e41f204d"
+  },
+  "nombre": "PILOTO VANTI CATM1",
+  "correo": "jbautista@grupovanti.com",
+  "password": "$2a$10$pSKPgDe.PIVIUmNgFPTY6eKRPxFUPFbRbIJYiDMhbYD.BYWCO.TB.",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6668add42078c6e98fd1f778"
+  },
+  "nombre": "Usuario Planta",
+  "correo": "julian.arango@metrex.com.co",
+  "password": "$2a$10$djbnhYjDzMMsVmiQuQFKJOf8GYGTtyK7qMG9q65fFSjkgpggS3.Ki",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "666c511e2078c6e98fd26376"
+  },
+  "nombre": "Brayan Mogollon",
+  "correo": "brayan.mogollon@surtigas.co",
+  "password": "$2a$10$jijOAC27yeyVR1xCjw.3PutIAOzCz4lnHOvHkO7IxBsMlR6XruMLm",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "__v": 84,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NjZjNTExZTIwNzhjNmU5OGZkMjYzNzYiLCJpYXQiOjE3NzEzNjE5NjMsImV4cCI6MTc3MTk2Njc2M30.izD_BrmVh_hX8Y70ggeg1aJAc2ITEWVsZaP71re6rLU"
+  ]
+},{
+  "_id": {
+    "$oid": "667c87e021b50c826919f475"
+  },
+  "nombre": "Fabio Realpe",
+  "correo": "frealpe@gmail.com",
+  "password": "$2a$10$VBgAWBwfpG0A4sX22vRGYufao13Qj8wHs/85PRZ669QzqrjU.C8ZC",
+  "rol": "ADMIN_ROLE",
+  "estado": true,
+  "google": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6761d60d7234b533195145fb"
+  },
+  "nombre": "Wilfrey Fernandez Samboni",
+  "correo": "aux.investigacion@metrex.com.co",
+  "password": "$2a$10$9jiIo2MEtzdK0gcH5/q.suefXEnc5S3RFSM3.Le7gGACS3wNa5Ps.",
+  "rol": "ADMIN_ROLE",
+  "estado": true,
+  "google": false,
+  "__v": 15,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NzYxZDYwZDcyMzRiNTMzMTk1MTQ1ZmIiLCJpYXQiOjE3NzA5MTE4MDIsImV4cCI6MTc3MTUxNjYwMn0.P3RCSirJk08iFZ4TfTSXw9Z-Od_NvjsLngZ4ka65oXE",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NzYxZDYwZDcyMzRiNTMzMTk1MTQ1ZmIiLCJpYXQiOjE3NzE1NTUxMTQsImV4cCI6MTc3MjE1OTkxNH0.TvE30SPLpUjPqGP63MZFH9Nk96Kx0vVqnfsS_wrtgVs"
+  ]
+},{
+  "_id": {
+    "$oid": "6787b758ae665ea391f0ceff"
+  },
+  "nombre": "Ricardo Lubo Perez",
+  "correo": "rlubo@gasguajira.com",
+  "password": "$2a$10$zrpsyF9RSR6yJmAFnJ.K1uJIk3juXkFmxC64VLxR6zBNP6ty5L7si",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "680c0b8b54af186f0fd0521f"
+  },
+  "correo": "emezav@gmail.com",
+  "__v": 4,
+  "estado": true,
+  "google": false,
+  "nombre": "Erwin Meza Vega",
+  "password": "$2a$10$47IfX2lx6PynLaETgYgAe.Lgx/hKJG4A5XP9DUYyvwTdX9TUyFyl2",
+  "rol": "ADMIN_ROLE",
+  "refreshToken": []
+},{
+  "_id": {
+    "$oid": "681a0c704acfc72edea27738"
+  },
+  "nombre": "Lucas Daniel Pacheco castro",
+  "correo": "lpacheco@gascaribe.com",
+  "password": "$2a$10$VK4uFRH/EOj3i9DAbIKlZ.dDPc7Asi7VKqKf9q4FI.9ogsFi1B6.e",
+  "rol": "ADMIN_USER",
+  "estado": true,
+  "google": false,
+  "__v": 0,
+  "refreshToken": []
+},{
+  "_id": {
+    "$oid": "684840f72467c0db2c1db4db"
+  },
+  "nombre": "David Fernando López ",
+  "correo": "coord.desarrollo@metrex.com.co",
+  "password": "$2a$10$0QFZTARNZ26uRpIn89Tr9unPCfiwei3eOi.WSjQYS6Hx/E0XS5WX.",
+  "rol": "ADMIN_ROLE",
+  "estado": true,
+  "google": false,
+  "__v": 47,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODQ4NDBmNzI0NjdjMGRiMmMxZGI0ZGIiLCJpYXQiOjE3Njk2MjAzNDEsImV4cCI6MTc3MDIyNTE0MX0.Vy7ycF9x-oOwTdWc8RHGgmPALJwY6IDM-YvSS3vocpg",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODQ4NDBmNzI0NjdjMGRiMmMxZGI0ZGIiLCJpYXQiOjE3Njk3NDMxMDUsImV4cCI6MTc3MDM0NzkwNX0.3oveiBrWPEHBVgSRkrNvagNgmKRkQbXcXZ0U-2H9jcA",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODQ4NDBmNzI0NjdjMGRiMmMxZGI0ZGIiLCJpYXQiOjE3Njk3OTQ3NzMsImV4cCI6MTc3MDM5OTU3M30.7CP3k4YpsxXpRk3zB4i0G_e1F6It_c-Rs0qkQymtLpo",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODQ4NDBmNzI0NjdjMGRiMmMxZGI0ZGIiLCJpYXQiOjE3NzEzNjE4MzMsImV4cCI6MTc3MTk2NjYzM30.XtSPkFDPkXBbjdeGC9ZIogVpn_KMwLyaq400t121jCs"
+  ]
+},{
+  "_id": {
+    "$oid": "684b418d2467c0db2c1f2660"
+  },
+  "nombre": "Leyner De Jesús Mie",
+  "correo": "leymie@gascaribe.com",
+  "password": "$2a$10$Rg3dv6wYajd.BDeninKCmejJwa1yI79YHLVJS5eLuWfwk2m5NTJyG",
+  "rol": "ADMIN_USER",
+  "estado": true,
+  "google": false,
+  "__v": 12,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODRiNDE4ZDI0NjdjMGRiMmMxZjI2NjAiLCJpYXQiOjE3Njk4MDAwNzgsImV4cCI6MTc3MDQwNDg3OH0.v-Qr4XM4XJC6x3FkKGLiFbWA_AqiwuIau5W0ubz-BFw",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODRiNDE4ZDI0NjdjMGRiMmMxZjI2NjAiLCJpYXQiOjE3NzAyMjEzNjgsImV4cCI6MTc3MDgyNjE2OH0.W_24whDO7x5Gx4U_6SvSzpNliLUT1MlVuvF9fSPu06E",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODRiNDE4ZDI0NjdjMGRiMmMxZjI2NjAiLCJpYXQiOjE3NzAyMjMyMjksImV4cCI6MTc3MDgyODAyOX0.qEelXwh02vc66gHs1KDxN6zDkGka8ZBzTERen4Wj09o",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODRiNDE4ZDI0NjdjMGRiMmMxZjI2NjAiLCJpYXQiOjE3NzA2NTQwMTEsImV4cCI6MTc3MTI1ODgxMX0.dZXMKqslA5Rc1cL-fXa_QJTcnxjE8oSQaqMcTCraddY",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODRiNDE4ZDI0NjdjMGRiMmMxZjI2NjAiLCJpYXQiOjE3NzEwODE1OTcsImV4cCI6MTc3MTY4NjM5N30.r08xPZsH4M57D1FsKf6bg6LD2ifwBHjLrpw2EqVNQ5M",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODRiNDE4ZDI0NjdjMGRiMmMxZjI2NjAiLCJpYXQiOjE3NzEyNzM4MjAsImV4cCI6MTc3MTg3ODYyMH0.vQ_y6x9gFYzJ-twjitesUkAXG3a7A9apyAsK6tPOxz4"
+  ]
+},{
+  "_id": {
+    "$oid": "6854782e4afcc2e22a8e89c5"
+  },
+  "nombre": "Pablo Holguin",
+  "correo": "pablo.holguin@comferretera.com",
+  "password": "$2a$10$./vr4GF3Ot1rMSjV0BvHeOWASE/iUAmCCsT25F8xCVINBOsGBUtSu",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "685da4ef4afcc2e22a9210f7"
+  },
+  "nombre": "Fernando Morales",
+  "correo": "fernando.morales@metrex.com.co",
+  "password": "$2a$10$sxLvlYpvpusz37/Ipw7tteWgPd2DSm5rxmQcjPg/WfEw053iJHnFa",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "686d8f34e4a8e678c11aaf03"
+  },
+  "nombre": "Anderson Ojeda",
+  "correo": "anderson.ojeda@triplea.com.co",
+  "password": "$2a$10$53ePsFARYTEXcxIieZ0q9uO4vgb/rs/2BHZha9q/zjc/iK63dla8u",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "__v": 2,
+  "refreshToken": []
+},{
+  "_id": {
+    "$oid": "687eedfad799da96c9bab58d"
+  },
+  "nombre": "Angélica María Acevedo",
+  "correo": "analista.ambiental@extrucol.com",
+  "password": "$2a$10$YfEC7viiQCq.jukMAPwtz.WOHPD/tmG70DqgnKBPBBr/YMG5T8nu6",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "__v": 3,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODdlZWRmYWQ3OTlkYTk2YzliYWI1OGQiLCJpYXQiOjE3NjkxMTQwNTgsImV4cCI6MTc2OTcxODg1OH0._5Zq1qHg2CESlKK2BymjkJcEnkHUfMKhMvi1uiB9Bfs",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODdlZWRmYWQ3OTlkYTk2YzliYWI1OGQiLCJpYXQiOjE3Njk3ODQ5NjIsImV4cCI6MTc3MDM4OTc2Mn0.pfhvGdOHSOsdKHw2EDaIZRPQEwVnaGU-Q2KPPRfElk4",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODdlZWRmYWQ3OTlkYTk2YzliYWI1OGQiLCJpYXQiOjE3NzA0MDkwMTUsImV4cCI6MTc3MTAxMzgxNX0.U84-z426oigLIAq8EXKox34dVhvUFvLPFVXa2rc9pxk",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODdlZWRmYWQ3OTlkYTk2YzliYWI1OGQiLCJpYXQiOjE3NzE1MDQ4MzMsImV4cCI6MTc3MjEwOTYzM30.xul853OoCkDaLv3ccbFEWeWTSkrwdiw_zIzwrQD6Hwo",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODdlZWRmYWQ3OTlkYTk2YzliYWI1OGQiLCJpYXQiOjE3NzE1MzY2MDEsImV4cCI6MTc3MjE0MTQwMX0.70ugYeTmbDD2CkvPqSGqRLGvjCwhqbZt9rmQSab3O-4"
+  ]
+},{
+  "_id": {
+    "$oid": "68a5f0a910de73795aa5a0f5"
+  },
+  "nombre": "Fabian Nova",
+  "correo": "fabian.nova@extrucol.com",
+  "password": "$2a$10$AbWiHBMkE2kHIvOiMdMwZ.xuebMpwJErjzZSB/AP3v.l7OZ8yLbum",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "68a77a2710de73795aa62d0c"
+  },
+  "nombre": "Walter Castillo",
+  "correo": "walter.castillo@0gcolombia.com",
+  "password": "$2a$10$L2kmFaZ8RArlHlw4.dfoUeSFpbHv2WrnEihf4QP2axnCewdhO2P9W",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "__v": 6,
+  "refreshToken": []
+},{
+  "_id": {
+    "$oid": "68ac987bc0e2317a567e426a"
+  },
+  "nombre": "Harold Blanco Zapata",
+  "correo": "harbla@gascaribe.com",
+  "password": "$2a$10$BcbEE4lFX/ieYAb1qKKdQ.ieaNZgNoVsuQFx2U53sJi9GH6d5J8Aq",
+  "rol": "ADMIN_USER",
+  "estado": true,
+  "google": false,
+  "__v": 1,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2OGFjOTg3YmMwZTIzMTdhNTY3ZTQyNmEiLCJpYXQiOjE3NjQ4NjQ1NTgsImV4cCI6MTc2NTQ2OTM1OH0.eHNcvRGZEkRd2Vj78FVjxRfkprV0qvC8u83NzcSrYAA",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2OGFjOTg3YmMwZTIzMTdhNTY3ZTQyNmEiLCJpYXQiOjE3NjU0ODIyMjAsImV4cCI6MTc2NjA4NzAyMH0.oAzqPQf1BWq6_7eWmxkjxI7F2V5lCln2au-Kx1-kngE",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2OGFjOTg3YmMwZTIzMTdhNTY3ZTQyNmEiLCJpYXQiOjE3Njk1NDY0OTQsImV4cCI6MTc3MDE1MTI5NH0.JSZSEWycsUm4tq8fE2R6ZTe29QByFwdUuk2_OvPGf78"
+  ]
+},{
+  "_id": {
+    "$oid": "68e01d7b0d75136294e7dd03"
+  },
+  "nombre": "Brayhan Suarez Lozano",
+  "correo": "brayhan.suarez@surtigas.co",
+  "password": "$2a$10$B/POa5BsHOO1oXn3WBICYedIkWkelAVH5fvEBuIyHN3NNbLr3No62",
+  "rol": "ADMIN_USER",
+  "estado": true,
+  "google": false,
+  "refreshToken": [],
+  "__v": 7
+},{
+  "_id": {
+    "$oid": "69024d201f2355c720d6b422"
+  },
+  "nombre": "Devoluciones Metrex",
+  "correo": "aux.laboratorios@metrex.com.co",
+  "password": "$2a$10$TSvifZV9HZQ4Z7XFPGRrGO1.WVJLB8mNyPZlsKEp0HgI.7r8vuggK",
+  "rol": "ADMIN_USER",
+  "estado": true,
+  "google": false,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2OTAyNGQyMDFmMjM1NWM3MjBkNmI0MjIiLCJpYXQiOjE3NjE4NTM0ODYsImV4cCI6MTc2MjQ1ODI4Nn0.HGhwtUphPhsLhwgUrA7zhrusPqOCwo85N8vbOtTC4bw",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2OTAyNGQyMDFmMjM1NWM3MjBkNmI0MjIiLCJpYXQiOjE3NjE4NTQzODcsImV4cCI6MTc2MjQ1OTE4N30.c9grp_49RZdOii1zX-D0RdquJF0Hn_s36UmnBnhqZ1c",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2OTAyNGQyMDFmMjM1NWM3MjBkNmI0MjIiLCJpYXQiOjE3NjI4Njk5NTQsImV4cCI6MTc2MzQ3NDc1NH0.0H0UvB_wOgBO6CLZYBC5k4xqJ8IDXsQfY6F7gvIynAk",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2OTAyNGQyMDFmMjM1NWM3MjBkNmI0MjIiLCJpYXQiOjE3NjI4ODYwNjAsImV4cCI6MTc2MzQ5MDg2MH0.hU1qkB_z3H2m49o0BsoeQbE7-1cHEc6c_ITsnpJBWoI"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "690e541a524dd46c748243eb"
+  },
+  "nombre": "Diego Gomez",
+  "correo": "auxiliar.id@metrex.com.co",
+  "password": "$2a$10$dfZ.1f8nAnjXlDIyc.kf0.Im5Bq6FShGZjo1af4gK./DuCOilPYUq",
+  "rol": "ADMIN_ROLE",
+  "estado": true,
+  "google": false,
+  "refreshToken": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6941621ff2b733679ff05d8d"
+  },
+  "nombre": "Emserfusa",
+  "correo": "Emserfusa@emserfusa.com",
+  "password": "$2a$10$8i600sNeRYtJLI5QNQsLLe4wgGhw2orBnwOsSsqp9K.tWUD5qYthO",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2OTQxNjIxZmYyYjczMzY3OWZmMDVkOGQiLCJpYXQiOjE3Njg5MzcwNDMsImV4cCI6MTc2OTU0MTg0M30.fiANjKh9pP79ZR5mOHRAKycwcb4CIzY4ow_zbfW-XGY"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "694979cbe0fb099321163072"
+  },
+  "nombre": "Jaime Daza",
+  "correo": "jdazacaballero@gascaribe.com",
+  "password": "$2a$10$248Oq2BvfcmSfXbLZfmdWu6cTpdE8UbSGmiPOCwkQvWuhwMkY9i.e",
+  "rol": "USER",
+  "estado": true,
+  "google": false,
+  "refreshToken": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2OTQ5NzljYmUwZmIwOTkzMjExNjMwNzIiLCJpYXQiOjE3NzE1NDAxNzUsImV4cCI6MTc3MjE0NDk3NX0.pNB-3QAKq8ljtok3fyrWvSUTqiT4KRkUqwTBu6o6Eew"
+  ],
+  "__v": 2
+}]

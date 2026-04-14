@@ -1,0 +1,12 @@
+{
+  "ignore": [
+    "trained_models/*",
+    "node_modules/*",
+    ".git/*"
+  ],
+  "verbose": false,
+  "watch": [
+    "*.js",
+    "*.json"
+  ]
+}

@@ -1,0 +1,57 @@
+/* Global overrides for IOT32 AdminTool */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+
+:root {
+  --cui-sidebar-bg: #1a1a2e;
+  --cui-sidebar-brand-bg: #16213e;
+  --cui-sidebar-nav-link-active-bg: #321fdb;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.sidebar {
+  --cui-sidebar-bg: #1a1a2e !important;
+}
+
+.sidebar-brand {
+  background-color: #16213e !important;
+}
+
+.nav-link {
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  margin: 2px 8px;
+  transition: background 0.2s ease;
+}
+
+.nav-link:hover {
+  background-color: rgba(255,255,255,0.08);
+}
+
+.nav-link.active {
+  background-color: #321fdb !important;
+  color: white !important;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  border-radius: 12px;
+}
+
+.card-header {
+  border-radius: 12px 12px 0 0 !important;
+  border-bottom: none;
+}
+
+.progress {
+  border-radius: 0;
+}
+
+.badge {
+  font-weight: 500;
+}
